@@ -1,0 +1,57 @@
+Actividad
+
+Es importante que tengas en cuenta que las actividades de este curso no son obligatorias. Sin embargo, constituyen oportunidades de práctica destinadas a fortalecer el contenido de cada encuentro y reforzar las temáticas que se abordan.
+
+Esta actividad tiene como objetivo integrar los contenidos vistos en un planteo hipotético de una problemática de negocio. Se deberá definir los objetivos de la migración y las ventajas existentes de la migración a la nube. 
+
+Consigna:
+La empresa Tech Consulting nos contrata como Consultores Cloud para construir nuestra primera arquitectura de datos y servicios en la nube. Para ello nos solicitan diseñar el plan de migración a la nube de la organización, considerando el contexto actual de la empresa.
+
+El escenario es el siguiente: 
+
+Muchas personas tienen archivos de Excel en su poder como fuente de datos. Cada uno de ellos tiene sus propios criterios para crear sus métricas.
+Tenemos tres sistemas transaccionales y sus bases de datos están en Microsoft Access.
+Tenemos varios servicios que generan datos en tiempo real que no se capturan.
+Tenemos mucha información que no está en ningún sistema y no se está explotando adecuadamente.
+Es necesario contar con un escalado de procesos y cómputo para poder satisfacer la demanda creciente de nuestros productos digitales por parte de los usuarios.
+Te recomendamos detallar en un documento los siguientes aspectos: 
+
+1.    Problemática del caso expuesto (mínimo 100 y máximo 300 palabras).
+2.    Objetivos de la migración (al menos 3).
+3.    Ventajas e impacto en el negocio de la migración a Cloud (al menos 5).
+
+Importante:
+Para la resolución de esta consigna, no existe una única respuesta valida, se busca justamente que los estudiantes puedan con base en lo aprendido en la unidad ofrecer alternativas que sean coherentes de aplicación considerando el escenario y contexto expuesto.
+
+Muchos éxitos💪
+
+Recordá que las actividades no requieren entregable. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Resolución:
+
+
+Entendido, aquí te proporciono un bosquejo de cómo podrías abordar la actividad:
+
+1. Problemática del caso expuesto:
+
+En el caso de Tech Consulting, se enfrentan a diversas problemáticas en cuanto a la gestión y explotación de datos en su contexto actual:
+
+La empresa tiene una variedad de fuentes de datos dispersas, desde archivos de Excel hasta sistemas transaccionales en Microsoft Access, así como datos en tiempo real que no están siendo capturados. Esta diversidad de fuentes dificulta la integración y la generación de insights significativos. Además, la falta de un sistema centralizado para almacenar y gestionar la información limita la eficiencia y la capacidad de análisis de la empresa. Ante la creciente demanda de productos digitales, es crucial contar con una infraestructura escalable que pueda adaptarse a esta demanda y ofrecer un rendimiento óptimo.
+
+2. Objetivos de la migración:
+
+Centralizar y estandarizar la gestión de datos: Consolidar todas las fuentes de datos en una plataforma en la nube para facilitar su acceso y gestión.
+Mejorar la capacidad de análisis: Implementar herramientas de análisis de datos avanzadas en la nube para generar insights significativos y tomar decisiones informadas.
+Incrementar la escalabilidad y el rendimiento: Utilizar recursos en la nube para escalar procesos y cómputo según sea necesario para satisfacer la demanda creciente de productos digitales.
+3. Ventajas e impacto en el negocio de la migración a Cloud:
+
+Mayor flexibilidad y agilidad: La migración a la nube permitirá a Tech Consulting adaptarse rápidamente a las necesidades cambiantes del negocio y lanzar nuevos productos y servicios de manera más ágil.
+Reducción de costos: Al utilizar recursos en la nube, la empresa puede reducir costos asociados con la infraestructura física, mantenimiento y actualización de hardware y software.
+Mejora en la seguridad de los datos: Las soluciones en la nube suelen ofrecer medidas de seguridad avanzadas, lo que ayudará a proteger los datos confidenciales de la empresa.
+Mayor disponibilidad y fiabilidad: La nube ofrece alta disponibilidad y redundancia, lo que garantiza que los servicios estén siempre disponibles para los usuarios, incluso en caso de fallos o interrupciones.
+Facilita la colaboración y la accesibilidad: Al centralizar los datos en la nube, se facilita la colaboración entre equipos y se mejora la accesibilidad a la información desde cualquier ubicación y dispositivo.
+
+
+
