@@ -1,0 +1,116 @@
+https://github.com/MichaelCade/90DaysOfDevOps?tab=readme-ov-file
+
+¿Qué es y por qué usamos DevOps?
+[✔️] ♾️ 2 > Responsabilidades de un ingeniero DevOps
+[✔️] ♾️ 3 > Ciclo de vida de DevOps - Centrado en la aplicación
+[✔️] ♾️ 4 > DevOps & Agile
+[✔️] ♾️ 5 > Planificar > Codificar > Construir > Probar > Liberar > Desplegar > Operar > Supervisar >
+[✔️] ♾️ 6 > DevOps - Las historias reales
+
+Aprender un lenguaje de programación
+[✔️] ⌨️ 7 > El panorama: DevOps y el aprendizaje de un lenguaje de programación
+[✔️] ⌨️ 8 > Configurar tu entorno DevOps para Go y Hello World
+[✔️] ⌨️ 9 > Vamos a explicar el código de Hello World
+[✔️] ⌨️ 10 > The Go Workspace & Compiling & running code
+[✔️] ⌨️ 11 > Variables, Constants & Data Types
+[✔️] ⌨️ 12 > Obtención del input del usuario con Punteros y un programa terminado
+[✔️] ⌨️ 13 > Tuitear tus progresos con nuestra nueva App
+
+Conociendo lo básico de Linux
+[✔️] 🐧 14 > El panorama: DevOps & Linux
+[✔️] 🐧 15 > Comandos de Linux para DevOps (en realidad son todos)
+[✔️] 🐧 16 > Gestión de tu sistema Linux, sistema de archivos y almacenamiento
+[✔️] 🐧 17 > Editores de texto - nano vs vim
+[✔️] 🐧 18 > SSH & Web Server(LAMP)
+[✔️] 🐧 19 > Automatizar tareas con scripts bash
+[✔️] 🐧 20 > Configuración de la estación de trabajo de desarrollo - Todas las cosas bonitas
+
+Entender Networking
+[✔️] 🌐 21 > El panorama: DevOps & Networking
+[✔️] 🌐 22 > El modelo OSI - Las 7 capas
+[✔️] 🌐 23 > Protocolos de red
+[✔️] 🌐 24 > Automatización de la red
+[✔️] 🌐 25 > Python para la automatización de la red
+[✔️] 🌐 26 > Construir nuestro Lab
+[✔️] 🌐 27 > Manos a la obra con Python y Redes
+
+Quédate con solo un Cloud Provider
+[✔️] ☁️ 28 > El panorama: DevOps & The Cloud
+[✔️] ☁️ 29 > Fundamentos de Microsoft Azure
+[✔️] ☁️ 30 > Modelos de seguridad de Microsoft Azure
+[✔️] ☁️ 31 > Modelos de computación de Microsoft Azure
+[✔️] ☁️ 32 > Modelos de almacenamiento y base de datos de Microsoft Azure
+[✔️] ☁️ 33 > Modelos de red de Microsoft Azure + Gestión de Azure
+[✔️] ☁️ 34 > Escenarios prácticos de Microsoft Azure
+
+Usa Git de forma efectiva
+[✔️] 📚 35 > El panorama: Git - Control de versiones
+[✔️] 📚 36 > Instalación y configuración de Git
+[✔️] 📚 37 > Conociendo Git
+[✔️] 📚 38 > Puesta en marcha y cambios
+[✔️] 📚 39 > Visualización, desescalado, descarte y restauración
+[✔️] 📚 40 > Red social para el código
+[✔️] 📚 41 > El flujo de trabajo del Open Source
+
+Contenedores
+[✔️] 🏗️ 42 > El panorama: Contenedores
+[✔️] 🏗️ 43 > ¿Qué es Docker y cómo se instala?
+[✔️] 🏗️ 44 > Docker Images y manos a la obra con Docker Desktop
+[✔️] 🏗️ 45 > La anatomía de Docker Image
+[✔️] 🏗️ 46 > Docker Compose
+[✔️] 🏗️ 47 > Redes y seguridad de Docker
+[✔️] 🏗️ 48 > Alternativas a Docker
+
+Kubernetes
+[✔️] ☸ 49 > El panorama: Kubernetes
+[✔️] ☸ 50 > Elección de la plataforma Kubernetes
+[✔️] ☸ 51 > Despliegue del primer clúster Kubernetes
+[✔️] ☸ 52 > Configuración de un clúster multinodo Kubernetes
+[✔️] ☸ 53 > Visión general de Rancher - manos a la obra
+[✔️] ☸ 54 > Despliegue de aplicaciones en Kubernetes
+[✔️] ☸ 55 > Estado y Ingress en Kubernetes
+
+Aprender la infraestructura como código (IaC)
+[✔️] 🤖 56 > El panorama: IaC
+[✔️] 🤖 57 > Una introducción a Terraform
+[✔️] 🤖 58 > HashiCorp Configuration Language (HCL)
+[✔️] 🤖 59 > Crear una MV con Terraform y variables
+[✔️] 🤖 60 > Contenedores Docker, aprovisionadores y módulos
+[✔️] 🤖 61 > Kubernetes y entornos múltiples
+[✔️] 🤖 62 > Pruebas, herramientas y alternativas
+
+Automatizar la gestión de la configuración
+[✔️] 📜 63 > El panorama: la gestión de la configuración
+[✔️] 📜 64 > Ansible: Primeros pasos
+[✔️] 📜 65 > Ansible Playbooks
+[✔️] 📜 66 > Continuación de Ansible Playbooks...
+[✔️] 📜 67 > Usar roles y desplegar un Loadbalancer
+[✔️] 📜 68 > Tags, variables, inventario y Database Server config
+[✔️] 📜 69 > Todo los demás sobre Ansible - Automation Controller, AWX, Vault
+
+Crear CI/CD Pipelines
+[✔️] 🔄 70 > El panorama: CI/CD Pipelines
+[✔️] 🔄 71 > Que es Jenkins?
+[✔️] 🔄 72 > Manos a la obra con Jenkins
+[✔️] 🔄 73 > Construir un Jenkins pipeline
+[✔️] 🔄 74 > Hello World - Jenkinsfile App Pipeline
+[✔️] 🔄 75 > Visión general de GitHub Actions
+[✔️] 🔄 76 > Visión general ArgoCD
+
+Monitorización, gestión de logs y visualización de datos.
+[✔️] 📈 77 > El panorama: monitorización
+[✔️] 📈 78 > Herramientas prácticas de monitorización
+[✔️] 📈 79 > El panorama: Gestión de Logs
+[✔️] 📈 80 > Pila ELK
+[✔️] 📈 81 > Fluentd & FluentBit
+[✔️] 📈 82 > Pila EFK
+[✔️] 📈 83 > Visualización de datos - Grafana
+
+Almacenar y proteger tus datos
+[✔️] 🗃️ 84 > El panorama: Gestión de datos
+[✔️] 🗃️ 85 > Servicios de datos
+[✔️] 🗃️ 86 > Copia de seguridad de todas las plataformas
+[✔️] 🗃️ 87 > Prácticas de copias de seguridad y recuperación de datos
+[✔️] 🗃️ 88 > Copias de seguridad centradas en aplicación
+[✔️] 🗃️ 89 > Recuperación de desastres
+[✔️] 🗃️ 90 > Movilidad de datos y aplicaciones
